@@ -4,7 +4,8 @@
   "description": "",
   "main": "peopleParty.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./peopleParty.js",
+    "list": "ls"
   },
   "dependencies": {
     "faker": "4.1.0"
